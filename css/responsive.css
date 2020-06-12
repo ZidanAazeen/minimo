@@ -1,0 +1,276 @@
+/* Extra small devices (portrait phones, less than 576px */
+
+@media (max-width: 575.98px) {
+    #header-part {
+        padding-top: 20px;
+    }
+    .menu-style {
+        padding-bottom: 20px;
+    }
+    #photodiary-area {
+        padding-top: 25px;
+        padding-bottom: 25px;
+    }
+    .photodiary-content h2 {
+        font-size: 20px;
+        padding: 15px 0;
+    }
+    .comment-image p {
+        width: 100%;
+    }
+    .photodiary-content p {
+        font-size: 10px;
+    }
+    .photodiary-content p {
+        width: 100%;
+    }
+    .comment-content h4 {
+        padding-bottom: 20px;
+    }
+    .comment-image h2 {
+        font-size: 16px;
+    }
+    .comment-image p {
+        font-size: 10px;
+    }
+    .comment-image-second {
+        padding-top: 20px;
+    }
+    .comment-image h4 {
+        padding: 15px 0;
+    }
+    .comment-image h2 {
+        padding-bottom: 15px;
+    }
+    .sign-content h3 {
+        margin-bottom: 25px;
+        padding-top: 40px;
+    }
+    .sign-content h3 {
+        font-size: 22px;
+    }
+    #sign-up-area {
+        padding-bottom: 40px;
+    }
+    .sign-content h5 {
+        margin-left: 87px;
+    }
+    .sign-content i {
+        margin-right: 65px;
+    }
+    .hr-custom {
+        width: 55%;
+    }
+    #comment-area {
+        padding-bottom: 25px;
+    }
+    #lifestyle-part {
+        padding-top: 25px;
+    }
+    .lifestyle-content h2 {
+        font-size: 16px;
+        padding-bottom: 15px;
+    }
+    .lifestyle-content h4 {
+        padding: 15px 0;
+    }
+    .lifestyle-content p {
+        font-size: 10px;
+    }
+    .btn-custom {
+        font-size: 10px;
+        margin: 25px 0;
+    }
+    #footer-part {
+        padding: 5px 0;
+    }
+    .footer-menu ul li a {
+        font-size: 11px;
+    }
+    .footer-menu2 {
+        margin-left: 13px;
+    }
+}
+
+
+/* Small devices (landscape phones, 576px and up */
+
+@media (min-width: 576px) and (max-width: 767.98px) {
+    #header-part {
+        padding-top: 25px;
+    }
+    .menu-style {
+        padding-bottom: 25px;
+    }
+    #photodiary-area {
+        padding-top: 30px;
+    }
+    .photodiary-content h2 {
+        font-size: 25px;
+    }
+    .comment-image p {
+        width: 81%;
+    }
+    .photodiary-content p {
+        font-size: 12px;
+    }
+    .photodiary-content p {
+        width: 100%;
+    }
+    .comment-content h4 {
+        padding-bottom: 30px;
+    }
+    .comment-image h2 {
+        font-size: 18px;
+    }
+    .comment-image p {
+        font-size: 12px;
+    }
+    .comment-image-second {
+        padding-top: 30px;
+    }
+    .sign-content h3 {
+        margin-bottom: 30px;
+        padding-top: 50px;
+    }
+    #sign-up-area {
+        padding-bottom: 50px;
+    }
+    .sign-content h5 {
+        margin-left: 145px;
+    }
+    .sign-content i {
+        margin-right: 110px;
+    }
+    .hr-custom {
+        width: 44%;
+    }
+    .sign-content h5 {
+        margin-left: 243px;
+    }
+    #comment-area {
+        padding-bottom: 30px;
+    }
+    #lifestyle-part {
+        padding-top: 30px;
+    }
+    .lifestyle-content h2 {
+        font-size: 18px;
+    }
+    .lifestyle-content p {
+        font-size: 12px;
+    }
+    .btn-custom {
+        font-size: 13px;
+        margin: 40px 0;
+    }
+    #footer-part {
+        padding: 10px 0;
+    }
+    .footer-menu ul li a {
+        font-size: 12px;
+    }
+    .footer-menu2 {
+        margin-left: 115px;
+    }
+}
+
+
+/* Medium devices (tablets, 768px and up */
+
+@media (min-width: 768px) and (max-width: 991.98px) {
+    #header-part {
+        padding-top: 30px;
+    }
+    .menu-style {
+        padding-bottom: 30px;
+    }
+    #photodiary-area {
+        padding-top: 40px;
+    }
+    .photodiary-content p {
+        width: 90%;
+    }
+    .comment-content h4 {
+        padding-bottom: 40px;
+    }
+    .comment-image h2 {
+        font-size: 22px;
+    }
+    .comment-image-second {
+        padding-top: 40px;
+    }
+    .sign-content h3 {
+        padding-top: 60px;
+        margin-bottom: 60px;
+    }
+    .sign-content h5 {
+        margin-left: 243px;
+    }
+    #comment-area {
+        padding-bottom: 40px;
+    }
+    #lifestyle-part {
+        padding-top: 40px;
+    }
+    .btn-custom {
+        font-size: 15px;
+        margin: 50px 0;
+    }
+    #footer-part {
+        background: #f0f0f0;
+        padding: 10px 0;
+    }
+    .footer-menu ul li a {
+        font-size: 12px;
+    }
+    .footer-menu2 {
+        margin-left: 280px;
+    }
+}
+
+
+/* Large devices (desktops, 992px and up */
+
+@media (min-width: 992px) and (max-width: 1199.98px) {
+    #header-part {
+        padding-top: 35px;
+    }
+    .menu-style {
+        padding-bottom: 35px;
+    }
+    #photodiary-area {
+        padding-top: 50px;
+    }
+    .comment-content h4 {
+        padding-bottom: 50px;
+    }
+    .comment-image-second {
+        padding-top: 50px;
+    }
+    #comment-area {
+        padding-bottom: 50px;
+    }
+    #lifestyle-part {
+        padding-top: 50px;
+    }
+    #footer-part {
+        background: #f0f0f0;
+        padding: 15px 0;
+    }
+    .footer-menu ul li a {
+        font-size: 12px;
+        text-transform: capitalize;
+        color: #626262 !important;
+        font-family: 'Playfair Display', serif;
+        text-decoration: none;
+    }
+    .footer-menu2 {
+        margin-left: 380px;
+    }
+}
+
+
+/* Extra large devices (large desktops, 1200px and up */
+
+@media (min-width: 1200px) {}
