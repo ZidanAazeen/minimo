@@ -125,21 +125,20 @@ html {
     margin-bottom: 80px;
 }
 
-.sign-content h5 {
+.input-group input {
+    background-color: transparent;
+    border: none;
+    font-family: 'Playfair Display', serif;
     font-size: 14px;
-    color: #626262;
-    display: inline;
-    float: left;
-    margin-left: 385px;
 }
 
-.sign-content i {
-    margin-right: 222px;
+.input-group-append span {
+    background-color: transparent;
+    border: none;
 }
 
-.hr-custom {
-    border: 1px solid #333333;
-    width: 31%;
+.input-group {
+    border-bottom: 2px solid #000000;
 }
 
 
